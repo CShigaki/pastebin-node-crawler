@@ -9,6 +9,8 @@
   "dependencies": {
     "axios": "^0.16.2",
     "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.18.1",
+    "redis": "^2.8.0",
     "sleep": "^5.1.1"
   },
   "author": "",
