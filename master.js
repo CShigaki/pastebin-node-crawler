@@ -1,4 +1,3 @@
-const cheerio = require('cheerio')
 const axios = require('axios');
 const cluster = require('cluster');
 const http = require('http');
